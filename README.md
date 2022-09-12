@@ -8,3 +8,4 @@ Exploring and learning some new tags and trying to establish a skill page and al
 Done with skill page now stated working on projects page 
 half done with contact page
 exploring some hover effects 
+design the pages
